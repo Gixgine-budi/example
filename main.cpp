@@ -3,5 +3,6 @@ using namespace std;
 
 int main(){
     printf("Hello world!\n");
-    printf("greetings!");
+    printf("greetings!\n");
+    printf("I didn't expect that...");
 }
